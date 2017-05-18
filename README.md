@@ -1,2 +1,1 @@
-# resource-server
-resource-server
+authorization
